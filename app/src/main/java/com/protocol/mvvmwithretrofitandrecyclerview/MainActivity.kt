@@ -43,5 +43,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         viewModel.getAllMovies()
+
+        //Comment
     }
 }
